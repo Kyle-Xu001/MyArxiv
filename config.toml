@@ -3,12 +3,12 @@ limit_days = 10
 cache_url = "https://kyle-xu001.github.io/MyArxiv/cache.json"
 
 [[sources]]
-limit = 150
+limit = 200
 category = "cs.RO"
 title = "Robotics"
 
 [[sources]]
-limit = 150
+limit = 200
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
